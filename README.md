@@ -20,23 +20,20 @@ A React application that allows users to configure and preview a chat bot interf
 ## Steps:
 
 1. Clone the repository:
-   ```bash
 
-   ```
-
-### git clone https://github.com/rajendra-jat7/chat-widget-configurator.git
+#### `git clone https://github.com/rajendra-jat7/chat-widget-configurator.git`
 
 2. Navigate to the project folder:
 
-### cd chat-widget-configurator
+#### `cd chat-widget-configurator`
 
 3. Install dependencies:
 
-### npm install
+#### `npm install`
 
 4. Start the applications:
 
-### `npm start`
+#### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
